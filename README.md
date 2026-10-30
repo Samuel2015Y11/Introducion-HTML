@@ -27,3 +27,4 @@ Y Presionar Initialize Repository
 
 OBLIGATORIO
 Colocar Un Comentario De Que Se Hizo Y Dar Click En Commit
+Tambien Iniciar Sesion, Dejar El Autorizo A La Cuenta Y Dar A Publish Branch Dar Al Aviso Yes Y Subir Uno Publico
